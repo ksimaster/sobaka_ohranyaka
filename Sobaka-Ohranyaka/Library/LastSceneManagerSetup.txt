@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Asset animal/Tiger/Tiger.unity
+- path: Assets/Asset build/NikolayFedorov/OldVillage/VilagePropsPack/Scenes/Survival
+    village props Free.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
